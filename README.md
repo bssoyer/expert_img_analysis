@@ -14,7 +14,8 @@ After installing the software, you can run the Arity/Prolog32 interpreter by typ
 C:\api32
 
 1.2	Run the expert system application inside the Prolog interpreter
-To run the expert system application, imgexp.ari Prolog file, download it from the <Code> section on GitHub. Go to the directory where you put the imgexp.ari file after downloading and run the api32.exe interpreter, see Figure 1.
+To run the expert system application, imgexp.ari Prolog file, download it from the <Code> section on GitHub. 
+Go to the directory where you put the imgexp.ari file after downloading and run the api32.exe interpreter, see Figure 1.
 
 In the interpreter, type in Alt-F and select File > Consult File … In the dialog box that pops up, type in the filename imgexp.ari, see Figure 2.
 

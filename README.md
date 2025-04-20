@@ -4,7 +4,7 @@ This rule-based expert system is written in Arity/Prolog32 interpreter. Some pre
 2. Run the expert system application inside the Prolog interpreter.
 
 ##
-**1.1 Download and install the Arity/Prolog32 zipped distribution file
+**1.1 Download and install the Arity/Prolog32 zipped distribution file**
 
 To download and install the Arity/Prolog32 interpreter, please visit Peter L. Gabel's website at http://petergabel.info/ArityProlog32/InstallingArityProlog32/. After downloading, set the following system environment variables.
 
@@ -15,7 +15,7 @@ To download and install the Arity/Prolog32 interpreter, please visit Peter L. Ga
 After installing the software, you can run the Arity/Prolog32 interpreter by typing the following command in the command prompt: C:\api32
 
 ##
-**1.2 Run the expert system application inside the Prolog interpreter
+**1.2 Run the expert system application inside the Prolog interpreter**
 
 To run the expert system application, imgexp.ari Prolog file, download it from the section on GitHub. Go to the directory where you put the imgexp.ari file after downloading and run the api32.exe interpreter, see Figure 1.
 

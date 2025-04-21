@@ -1,4 +1,4 @@
-
+	
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                                                   %
@@ -13,11 +13,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+/*    			Type in begin/0 to start     		    
 
+?- begin.
 
-/*    			Type in begin/0 to start     		    */
-
-
+*/
 
 
 %                                                                   %
@@ -121,7 +121,7 @@ rule($ Cannot give further more advisement! $).
    THIS SECTION DEFINES VARIOUS FUNCTIONS TO MANAGE THE BEHAIVOR OF
                                 IMGEXP
 */
-
+		
 
 begin :- menu.
 

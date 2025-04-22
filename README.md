@@ -25,11 +25,20 @@ Now, you can interact with the expert system, trying out various tool combinatio
 
 Figure 1 The Arity/Prolog32 Interpreter
 
+![Figure_1](https://github.com/user-attachments/assets/b283cbb5-d711-4890-930f-9494167c8d81)
+
 Figure 2 Consulting a Prolog file to run
+
+![Figure_2](https://github.com/user-attachments/assets/25f5cea1-9273-4190-9f25-9b5b3f9aec99)
 
 Figure 3 Starting the Expert System
 
+![Figure_3](https://github.com/user-attachments/assets/91fbf5bb-55f7-48dd-8e05-0239d45d5e07)
+
 Figure 4 Main Window of the Expert System
+
+![Figure_4](https://github.com/user-attachments/assets/cddc8e22-287d-41ef-ac9e-b947a5e55b50)
+
 		
 		
 

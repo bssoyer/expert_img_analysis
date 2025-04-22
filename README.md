@@ -23,17 +23,13 @@ In the interpreter, type in Alt-F and select File > Consult File … In the dial
 
 Now, you can interact with the expert system, trying out various tool combinations using the thresholding method for edge enhancement, See Figure 4.
 
-                  Figure 1 The Arity/Prolog32 Interpreter
+Figure 1 The Arity/Prolog32 Interpreter
 
+Figure 2 Consulting a Prolog file to run
 
-                  Figure 2 Consulting a Prolog file to run
+Figure 3 Starting the Expert System
 
-
-                  Figure 3 Starting the Expert System                  
-
-
-                  Figure 4 Main Window of the Expert System
-
+Figure 4 Main Window of the Expert System
 		
 		
 
